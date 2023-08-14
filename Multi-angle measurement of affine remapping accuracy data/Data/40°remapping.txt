@@ -1,0 +1,82 @@
+仿射变换前[2101.39, 1854.52]baozhunyuanxin[0.9, 5.5]fangshebianhuanhou[0.962938, 5.4023]
+P8010
+仿射变换前[2056.81, 1801.15]baozhunyuanxin[1.8, 4.6]fangshebianhuanhou[1.87919, 4.58448]
+P707
+仿射变换前[2106.13, 1748.64]baozhunyuanxin[0.9, 3.7]fangshebianhuanhou[0.937291, 3.64314]
+P602
+码值6027078010
+
+仿射变换前[351.007, 1758.64]baozhunyuanxin[5.5, 0]fangshebianhuanhou[5.46465, 0.0706251]
+P7015
+仿射变换前[421.527, 1718.78]baozhunyuanxin[4.6, 1.8]fangshebianhuanhou[4.61802, 1.86642]
+P8020
+仿射变换前[499.166, 1535.46]baozhunyuanxin[0.9, 3.7]fangshebianhuanhou[0.937736, 3.7156]
+P602
+码值60270158020
+仿射变换前[1363.74, 1699.66]baozhunyuanxin[3.7, 1.8]fangshebianhuanhou[3.70258, 1.86224]
+P8019
+仿射变换前[1545.61, 1555.83]baozhunyuanxin[0.9, 5.5]fangshebianhuanhou[0.949488, 5.6138]
+P7010
+仿射变换前[1457.21, 1550.28]baozhunyuanxin[0.9, 3.7]fangshebianhuanhou[0.933756, 3.71173]
+P602
+码值60270108019
+
+
+
+
+仿射变换前[1010.68, 1407.59]baozhunyuanxin[3.7, 0]fangshebianhuanhou[3.68075, 0.000770264]
+P8013
+仿射变换前[1073.63, 1164.69]baozhunyuanxin[2.7, 4.6]fangshebianhuanhou[2.79923, 4.65343]
+P708
+仿射变换前[983.016, 1163.43]baozhunyuanxin[0.9, 3.7]fangshebianhuanhou[0.933389, 3.69026]
+P602
+码值6027088013
+
+
+仿射变换前[413.169, 1177.59]baozhunyuanxin[5.5, 0]fangshebianhuanhou[5.52188, 0.0239557]
+P6015
+仿射变换前[485.286, 1163]baozhunyuanxin[5.5, 1.8]fangshebianhuanhou[5.56455, 1.8865]
+P8021
+仿射变换前[440.497, 1077.99]baozhunyuanxin[3.7, 0.9]fangshebianhuanhou[3.68939, 0.936861]
+P7016
+码值601570168021
+仿射变换前[2045.2, 1067.68]baozhunyuanxin[3.7, 0.9]fangshebianhuanhou[3.71676, 0.938612]
+P8016
+仿射变换前[1920.88, 892.253]baozhunyuanxin[0.9, 3.7]fangshebianhuanhou[0.927476, 3.68613]
+P602
+仿射变换前[1932.98, 786.026]baozhunyuanxin[0.9, 5.5]fangshebianhuanhou[0.943225, 5.5316]
+P7010
+码值60270108016
+
+仿射变换前[1457.8, 1033.76]baozhunyuanxin[3.7, 0]fangshebianhuanhou[3.69587, 0.00603083]
+P8013
+仿射变换前[1420.89, 784.104]baozhunyuanxin[0.9, 3.7]fangshebianhuanhou[0.926166, 3.68892]
+P602
+仿射变换前[1402.34, 717.241]baozhunyuanxin[0, 4.6]fangshebianhuanhou[0.0149699, 4.59697]
+P705
+码值6027058013
+
+仿射变换前[391.787, 445.577]baozhunyuanxin[3.7, 0]fangshebianhuanhou[3.66512, 0.00362151]
+P8013
+仿射变换前[535.754, 337.898]baozhunyuanxin[1.8, 3.7]fangshebianhuanhou[1.84793, 3.68326]
+P603
+仿射变换前[608.935, 329.727]baozhunyuanxin[1.8, 5.5]fangshebianhuanhou[1.86723, 5.57904]
+P7011
+码值60370118013
+仿射变换前[1126.34, 500.94]baozhunyuanxin[1.8, 5.5]fangshebianhuanhou[1.99939, 5.62403]
+P7011
+仿射变换前[1089, 404.72]baozhunyuanxin[2.7, 3.7]fangshebianhuanhou[2.86133, 3.76547]
+P604
+仿射变换前[973.104, 266.607]baozhunyuanxin[5.5, 0.9]fangshebianhuanhou[5.51099, 1.04336]
+P8018
+码值60470118018
+
+
+
+仿射变换前[2120.72, 432.483]baozhunyuanxin[0.9, 5.5]fangshebianhuanhou[1.14865, 5.49147]
+P7010
+仿射变换前[1945.42, 183.211]baozhunyuanxin[4.6, 0.9]fangshebianhuanhou[4.56852, 0.963296]
+P8017
+仿射变换前[1900.07, 134.288]baozhunyuanxin[5.5, 0]fangshebianhuanhou[5.45635, 0.0694597]
+P7015
+码值701070158017
